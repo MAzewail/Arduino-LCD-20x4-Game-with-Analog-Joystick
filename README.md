@@ -55,6 +55,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 ## Contact
 
-If you have any questions, suggestions, or issues regarding this game, please feel free to contact \[Your Name\] via \[email address\].
+If you have any questions, suggestions, or issues regarding this game, please feel free to contact me.
 
 Enjoy playing the game!
