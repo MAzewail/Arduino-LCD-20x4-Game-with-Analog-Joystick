@@ -6,7 +6,7 @@ This repository contains the source code and documentation for a game implemente
 
 The game is an interactive experience where the player controls a character on the LCD screen using an analog joystick. The objective is to navigate through a maze, collecting points and avoiding obstacles. The LCD 20x4 display provides real-time feedback and game information to the player.
 
-!()[https://github.com/MAzewail/Arduino-LCD-20x4-Game-with-Analog-Joystick/blob/main/Game.PNG]
+![](https://github.com/MAzewail/Arduino-LCD-20x4-Game-with-Analog-Joystick/blob/main/Game.PNG)
 
 ## Requirements
 
